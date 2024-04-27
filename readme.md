@@ -31,3 +31,14 @@ For Chinese:
 [![bilibili]][zulu]
 
 <h3>Profile Views:</h3>
+
+[![moe]][zulu]
+
+[zulu]: https://github.com/PonderFox0643
+
+[moe]: https://count.getloli.com/get/@pf43github?theme=gelbooru
+
+[bilibili]: https://stats.justsong.cn/api/bilibili/?id=395237104
+
+[githubst]: https://github-readme-stats.vercel.app/api?username=PonderFox0643
+
