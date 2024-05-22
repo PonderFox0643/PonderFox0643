@@ -36,7 +36,7 @@ For Chinese:
 
 [zulu]: https://github.com/PonderFox0643
 
-[moe]: https://moe.ponderfox0643.top/get/@pf43github?theme=gelbooru
+[moe]: https://count.getloli.com/get/@pf43github?theme=gelbooru
 
 [bilibili]: https://stats.justsong.cn/api/bilibili/?id=395237104
 
